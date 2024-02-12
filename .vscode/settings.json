@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "*.tcc": "cpp"
+    },
+    "cSpell.words": [
+        "torchvision"
+    ],
+
+    "editor.tokenColorCustomizations": {
+        "comments": "#14faf2a4"
+    },
+    "code-runner.executorMap": {
+        
+        "python": "set PYTHONIOENCODING=utf8 && H:\\anaconda\\envs\\prog_field\\python.exe",
+        
+    },
+    "code-runner.runInTerminal": false,
+    "commentTranslate.source": "Google"
+}
